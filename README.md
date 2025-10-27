@@ -9,9 +9,11 @@ https://atulk4.wixsite.com/atulk
 
 # 🧪 Setting up Python Environment with `uv`
 
-This guide explains how to set up and use a Python environment using [`uv`](https://docs.astral.sh/uv/) — a fast Python package manager and project tool.
+This guide explains how to set up and use a Python environment using [`uv`](https://docs.astral.sh/uv/) — 
+a fast Python package manager and project tool.
 
-If your repository contains a `uv.lock` file, it means dependencies are already pinned and reproducible. We'll use that to create an isolated environment.
+If your repository contains a `uv.lock` file, it means dependencies are already pinned and reproducible.
+We'll use that to create an isolated environment.
 
 
 
