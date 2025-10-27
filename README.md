@@ -1,7 +1,7 @@
 # Quantum-Computing-Lab
 M.Sc and M.Tech hands-on QC Lab IIT Jodhpur.
 
-# Know us 
+# About us 
 https://viveksabale1998.github.io
 
 https://atulk4.wixsite.com/atulk

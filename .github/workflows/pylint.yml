@@ -18,9 +18,10 @@ jobs:
       - name: Install dependencies
         run: |
           uv sync
-          uv add pylint
+          uv add nbqa pylint
 
           
       - name: Analysing the code with pylint
         run: |
+          uv run nbqa pylint .
           uv run pylint $(git ls-files '*.py')
