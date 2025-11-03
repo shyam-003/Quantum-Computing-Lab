@@ -2,9 +2,9 @@
 M.Sc and M.Tech hands-on QC Lab IIT Jodhpur.
 
 # About us 
-https://viveksabale1998.github.io
+[`Vivek Balasaheb Sabale`](https://viveksabale1998.github.io)
 
-https://atulk4.wixsite.com/atulk
+[`Atul kumar`](https://atulk4.wixsite.com/atulk)
 
 
 # 🧪 Setting up Python Environment with `uv`
